@@ -1,8 +1,8 @@
 body {
+    font-family: sans-serif;
     margin: 0;
     padding: 0;
 }
-
 
 #head {
     background-color: green;
@@ -19,7 +19,7 @@ body {
 a {
     text-decoration: none;
     color: green;
-    margin-left: 20px;
+    padding-left: 5px;
 
     
 }
@@ -47,14 +47,24 @@ section {
     background: #EBE1D1;
     padding: 20px;
     margin-right: 20px;
+    margin-left: 20px;
     height: 1850px;
-    border-radius: 8px; 
+    border-radius : 8px; 
 }
 
 
 #overview {
-    height:420px;
-    padding: 0px;
+    height:460px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+#overview img{
+    border-radius: 8px;
+    height: 250px;
+    width: 800px;
+   
 }
 
 #schedule {
