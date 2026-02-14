@@ -172,6 +172,7 @@ footer {
     nav a {
         display: block;
         margin: 8px 0;
+        text-align: center;
     }
 
     header h1 {
