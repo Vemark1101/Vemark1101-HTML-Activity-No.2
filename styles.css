@@ -86,7 +86,7 @@ ul {
 
 /* ===== BUTTON ===== */
 button {
-    background: #138f2d;
+    background: #0e7e26;
     color: white;
     border: none;
     padding: 10px 18px;
@@ -97,7 +97,7 @@ button {
 }
 
 button:hover {
-    background: #0c6b20;
+    background: #0e7e26;
 }
 
 /* ===== FAQ ===== */
@@ -148,13 +148,13 @@ kbd {
 }
 
 samp {
-    color: #0c6b20;
+    color: #0e7e26;
     font-weight: bold;
 }
 
 /* ===== FOOTER ===== */
 footer {
-    background: #138f2d;
+    background: #0e7e26;
     color: white;
     text-align: center;
     padding: 15px;
